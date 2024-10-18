@@ -110,6 +110,7 @@ img {
 
 .attribution a:hover {
   color: var(--color-orange);
+  text-decoration: underline;
 }
 
 @media (min-width: 650px) {
